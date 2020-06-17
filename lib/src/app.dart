@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' show get;
 import 'models/image_model.dart';
 import 'dart:convert';
+import 'widgets/image_list.dart';
 
 //Create a class that will be our custom widget
 
